@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco Marco Antonio Zúñiga Ugalde</h1>
+<h1 align="center">Hi 👋, I'm Marco Antonio Zúñiga Ugalde</h1>
 <h3 align="center">A passionate Full stack developer from Costa Rica</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzunigau" alt="mzunigau" /> </p>
 
