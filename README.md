@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact **I love cats ands potatoes**
 
-<p align="left">src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+<p align="left">
+<i class="devicon-bootstrap-plain"></i>
+</p><p align="center">
 <a href="https://twitter.com/marco40669826" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marco40669826" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/marco-zúñiga-ugalde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marco-zúñiga-ugalde" height="20" width="20" /></a>
 <a href="https://fb.com/bekuo.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bekuo.me" height="20" width="20" /></a>
