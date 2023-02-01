@@ -7,13 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mzunigau](https://github.com/mzunigau)
 
-- 📝 I regulary write articles on [https://yakukua.com/blog/](https://yakukua.com/blog/)
 
-- 💬 Ask me about **Spring boot, angular, Javascript**
-
-- 📫 How to reach me **dev@yakukua.com**
-
-- ⚡ Fun fact **I love cats ands potatoes**
+- 📫 How to reach me **mazuga92@gmail.com**
 
 <p align="left">
 <i class="devicon-bootstrap-plain"></i>
